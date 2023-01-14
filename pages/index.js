@@ -38,7 +38,7 @@ const Play = ({ history }) => {
 		{
 			id: 1,
 			name: 'Español',
-			parts: ['/movie.mp4']
+			parts: ['https://damovie.b-cdn.net/movie.mp4']
 		}
 	]
 
